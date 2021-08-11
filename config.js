@@ -15,5 +15,3 @@ const CONFIG = {
     mess: 'Ngang rứa 🥰 ',
     messDesc: 'Test hết rep lại ib nghe.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/tran.cris.77
-}
