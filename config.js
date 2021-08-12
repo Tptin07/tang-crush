@@ -1,18 +1,17 @@
-const 
-CONFIG = {
-    introTitle: 'Thằng đầu moi!',
-    introDesc: `Nhìn mặt m ngu vl
-    Đã thế còn hãm L
-    T gửi cái ni cho m
-    Để coi t viết code ri được chưa?`,
+const CONFIG = {
+    introTitle: 'Ê mi!',
+    introDesc: ` Đây là lần đầu t viết code
+    Không biết hắn chạy đc ko nữa
+    Chạy được thì ngon `,
     btnIntro: 'hihi',
-    title: 'Tao siêu cấp vjp pro 😙',
-    desc: 'Tín đẹp trai phải không ? ',
-    btnYes: 'Thề! Đẹp trai vcl <33',
-    btnNo: 'Đéo, đẹp trai con c :3',
-    question:'Đấy, bấm đẹp trai cho nhanh! <3',
-    btnReply: 'chó <3',
-    reply: 'Đoạn ni kb viết chi hết á! <33333333',
-    mess: 'Ngang rứa 🥰 ',
-    messDesc: 'Test hết rep lại ib nghe.',
+    title: 'Tín đẹp trai phải không😙',
+    desc: 'Thoát là công nhận t đẹp trai nha ! ',
+    btnYes: 'Thì m đẹp trai mà <33',
+    btnNo: 'Không, đéo, never :3',
+    question:'Tại sao m lại nhấn vào có <3',
+    btnReply: 'Gửi cho Tín <3',
+    reply: 'Do m đẹp trai rứa ai chịu nổi <33333333',
+    mess: 'T biết mà 🥰. Love u nhiều nhiều 😘😘',
+    messDesc: 'Chúc m có một ngày vui vẻ nhá',
     btnAccept: 'Okiiiii lun <3',
+
