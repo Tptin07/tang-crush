@@ -1,4 +1,5 @@
-const CONFIG = {
+const 
+CONFIG = {
     introTitle: 'Thằng đầu moi!',
     introDesc: `Nhìn mặt m ngu vl
     Đã thế còn hãm L
